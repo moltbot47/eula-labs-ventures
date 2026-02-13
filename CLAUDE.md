@@ -73,17 +73,20 @@ CLAUDE.md                     # This file
 - **Gets:** Tier 1 contributor (5x), revenue share, governance weight, negotiated equity
 - **Division:** "I build the technology. You manage the money. The fund admin handles the compliance."
 
-## Profit Center Roadmap (Year 1: $300K-$600K)
-1. Agent-as-a-Service (OpenClaw) → $2K-$5K/mo
-2. ARIA Device Pre-Orders + Grants → $5K-$15K + pipeline
-3. AI Consulting (EULA Labs brand) → $5K-$10K/mo
-4. GPU-as-a-Service (own compute) → $3K-$8K/mo
+## Profit Center Roadmap (Year 1: $1.5M-$2M)
+1. Agent-as-a-Service (OpenClaw) → $30K-$60K/mo at scale
+2. AI Consulting (EULA Labs brand) → $25K-$50K/mo
+3. GPU-as-a-Service (own compute) → $20K-$40K/mo at scale
+4. ARIA Device Pre-Orders + Grants → $10K-$20K/mo
 5. Pembrook Rental + Events → $5K-$10K/mo
 
 ## Action Items
 - [ ] Publish outstanding research paper: **Coordinated Intelligence Systems** (Claw Protocol)
 - [ ] Publish outstanding research paper: **Blood Pressure Research**
 - [ ] Publish outstanding research paper: **Cure Reversal Research**
+- [ ] Research in depth: **Liquidation Rights** — pro-rata distribution upon dissolution after creditor satisfaction (what this means for investors, order of payouts, how SPV structure affects it)
+- [ ] Research in depth: **Non-Transferable Membership Interests** — what "no speculation" means practically (can members sell/trade their interests? what happens if a member leaves? how does this affect investor liquidity and exit options?)
+- [ ] Research in depth: **Anti-Dilution** — how contribution decay mechanism (Tier 1 at half-speed) maintains relative positioning and protects early investors from being diluted by later contributors
 - [ ] Engage securities attorney (2-week Form C filing deadline)
 - [ ] Engage CPA for reviewed financial statements (first-time issuer, 3-7 days)
 - [ ] Select Reg CF funding portal (Wefunder, Republic, or StartEngine)
